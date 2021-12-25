@@ -7,7 +7,11 @@ npm install
 ```
 
 **运行服务器**
-
+如果没有nodemon
+```
+ npm i nodemon
+```
+然后运行
 ```
 nodemon app.js
 ```
